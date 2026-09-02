@@ -4,6 +4,6 @@
   "price": null,
   "notified_sold_out_once": false,
   "notified_available_once": false,
-  "last_checked_utc": "2026-09-02T16:18:34Z",
+  "last_checked_utc": "2026-09-02T16:23:11Z",
   "last_error": "EGRESS_BLOCKED: morenutrition.de is blocked by this environment's network egress policy (organization policy, CONNECT tunnel 403)."
 }
